@@ -1,0 +1,7 @@
+[
+  { "id": "cod", "name": "Call of Duty", "icon": "🎯", "color": "#ff6b35", "tagline": "Fast reflexes, faster decisions" },
+  { "id": "valorant", "name": "Valorant", "icon": "🗡️", "color": "#a855f7", "tagline": "Accuracy meets ability" },
+  { "id": "freefire", "name": "Free Fire", "icon": "🔥", "color": "#ff3355", "tagline": "Survival of the fastest" },
+  { "id": "amongus", "name": "Among Us", "icon": "👽", "color": "#22ff88", "tagline": "Trust no one" },
+  { "id": "chess", "name": "Chess", "icon": "♟️", "color": "#00d4ff", "tagline": "Think 10 moves ahead" }
+]

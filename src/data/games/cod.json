@@ -1,0 +1,25 @@
+{
+  "playerId": "SniperKing#7291",
+  "stats": {
+    "kd": 1.82,
+    "matchesPlayed": 3452,
+    "wins": 1897,
+    "losses": 1555,
+    "winRate": 54.9,
+    "currentRank": "Diamond III",
+    "topRank": "Crimson I",
+    "mostUsedWeapons": [
+      { "name": "MCW", "usagePercent": 28, "kills": 8921 },
+      { "name": "Rival-9", "usagePercent": 22, "kills": 6743 },
+      { "name": "XRK Stalker", "usagePercent": 15, "kills": 4532 },
+      { "name": "Holger 556", "usagePercent": 12, "kills": 3654 },
+      { "name": "Striker", "usagePercent": 10, "kills": 2987 }
+    ],
+    "recentPerformance": {
+      "last20Kd": 1.95,
+      "last20WinRate": 62,
+      "bestKdGame": 4.2,
+      "currentStreak": 5
+    }
+  }
+}

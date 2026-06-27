@@ -1,0 +1,14 @@
+{
+  "playerId": "SniperKing#AU",
+  "stats": {
+    "totalGames": 892,
+    "crewWins": 312,
+    "impostorWins": 198,
+    "crewGames": 523,
+    "impostorGames": 369,
+    "crewWinRate": 59.7,
+    "impostorWinRate": 53.7,
+    "playstyle": "Aggressive impostor, task-focused crewmate",
+    "favoriteRoles": ["Impostor", "Engineer", "Scientist"]
+  }
+}

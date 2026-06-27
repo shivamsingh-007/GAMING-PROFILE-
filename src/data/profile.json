@@ -1,0 +1,21 @@
+{
+  "name": "Shiva",
+  "tag": "SniperKing",
+  "bio": "Forged in the crucible of competitive war. I do not play matches — I claim souls. Every 1v5 is a ritual, every clutch an offering.",
+  "joined": 2016,
+  "setup": {
+    "pc": "Lenovo LOQ - RTX 4060, i5-13500H, 16GB RAM",
+    "monitor": "24' 165Hz IPS",
+    "mouse": "Logitech G Pro X Superlight",
+    "keyboard": "Keychron K2 (Brown Switches)",
+    "headset": "HyperX Cloud II",
+    "dpi": 800,
+    "sensitivity": "0.35 Valorant / 4.0 COD"
+  },
+  "socials": {
+    "twitch": "https://twitch.tv/yourname",
+    "discord": "https://discord.gg/yourinvite",
+    "youtube": "https://youtube.com/@yourname",
+    "steam": "https://steamcommunity.com/id/yourname"
+  }
+}

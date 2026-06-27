@@ -1,0 +1,21 @@
+{
+  "playerId": "SniperKing_Chess",
+  "platform": "Lichess",
+  "stats": {
+    "elo": 1850,
+    "peakElo": 1920,
+    "wins": 1243,
+    "losses": 1089,
+    "draws": 234,
+    "totalGames": 2566,
+    "winRate": 48.4,
+    "playingStyle": "Tactical, aggressive openings",
+    "favoriteOpenings": ["Italian Game", "Sicilian Defense", "King's Gambit"],
+    "recentPerformance": {
+      "last20Wins": 11,
+      "last20Losses": 7,
+      "last20Draws": 2,
+      "eloChange": 15
+    }
+  }
+}

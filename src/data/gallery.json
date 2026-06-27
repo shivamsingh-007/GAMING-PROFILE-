@@ -1,0 +1,14 @@
+[
+  { "type": "screenshot", "game": "cod", "src": "https://picsum.photos/seed/cod1/800/600", "caption": "Clutch 1v4 on Shipment", "date": "2026-05-12" },
+  { "type": "screenshot", "game": "valorant", "src": "https://picsum.photos/seed/val1/800/600", "caption": "5K with Operator on Breeze", "date": "2026-05-10" },
+  { "type": "clip", "game": "freefire", "src": "https://picsum.photos/seed/ff1/800/600", "caption": "1v3 clutch in ranked", "date": "2026-05-08" },
+  { "type": "screenshot", "game": "amongus", "src": "https://picsum.photos/seed/au1/800/600", "caption": "Perfect impostor round, zero votes", "date": "2026-04-28" },
+  { "type": "art", "game": "valorant", "src": "https://picsum.photos/seed/art1/800/600", "caption": "Custom Jett fan art", "date": "2026-04-15" },
+  { "type": "screenshot", "game": "cod", "src": "https://picsum.photos/seed/cod2/800/600", "caption": "Nuke called in, final killcam", "date": "2026-04-10" },
+  { "type": "clip", "game": "valorant", "src": "https://picsum.photos/seed/val2/800/600", "caption": "4K clutch as Jett, last alive", "date": "2026-04-05" },
+  { "type": "screenshot", "game": "chess", "src": "https://picsum.photos/seed/chess1/800/600", "caption": "Beautiful checkmate, queen sacrifice", "date": "2026-03-28" },
+  { "type": "art", "game": "freefire", "src": "https://picsum.photos/seed/art2/800/600", "caption": "Free Fire character concept", "date": "2026-03-20" },
+  { "type": "screenshot", "game": "cod", "src": "https://picsum.photos/seed/cod3/800/600", "caption": "Best K/D game, 42-10 on Rust", "date": "2026-03-15" },
+  { "type": "clip", "game": "amongus", "src": "https://picsum.photos/seed/au2/800/600", "caption": "Triple kill as impostor with reactor sabotage", "date": "2026-03-10" },
+  { "type": "screenshot", "game": "freefire", "src": "https://picsum.photos/seed/ff2/800/600", "caption": "Booyah with 9 kills", "date": "2026-03-05" }
+]

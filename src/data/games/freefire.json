@@ -1,0 +1,25 @@
+{
+  "playerId": "SniperKing_FF",
+  "stats": {
+    "kd": 2.15,
+    "matchesPlayed": 4567,
+    "wins": 2108,
+    "losses": 2459,
+    "winRate": 46.2,
+    "currentRank": "Grandmaster",
+    "topRank": "Grandmaster",
+    "mostUsedWeapons": [
+      { "name": "AK-47", "usagePercent": 30, "kills": 6789 },
+      { "name": "M1014", "usagePercent": 22, "kills": 4987 },
+      { "name": "AWM", "usagePercent": 18, "kills": 4023 },
+      { "name": "MP5", "usagePercent": 12, "kills": 2654 },
+      { "name": "SCAR", "usagePercent": 10, "kills": 2123 }
+    ],
+    "recentPerformance": {
+      "last20Kd": 2.34,
+      "last20WinRate": 52,
+      "bestKdGame": 5.1,
+      "currentStreak": 2
+    }
+  }
+}

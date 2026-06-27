@@ -1,0 +1,26 @@
+{
+  "playerId": "SniperKing#NA1",
+  "stats": {
+    "kd": 1.65,
+    "matchesPlayed": 1823,
+    "wins": 984,
+    "losses": 839,
+    "winRate": 54.0,
+    "currentRank": "Ascendant 2",
+    "topRank": "Immortal 1",
+    "mostUsedAgents": [
+      { "name": "Jett", "usagePercent": 32, "kills": 5432 },
+      { "name": "Reyna", "usagePercent": 25, "kills": 4123 },
+      { "name": "Chamber", "usagePercent": 18, "kills": 2987 },
+      { "name": "Sova", "usagePercent": 12, "kills": 1876 },
+      { "name": "Omen", "usagePercent": 8, "kills": 1432 }
+    ],
+    "recentPerformance": {
+      "last20Kd": 1.78,
+      "last20WinRate": 58,
+      "bestKdGame": 3.8,
+      "currentStreak": 3
+    },
+    "favoriteWeapons": ["Vandal", "Operator", "Phantom"]
+  }
+}
